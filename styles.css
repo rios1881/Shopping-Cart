@@ -1,0 +1,13 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Input {
+    display: flex;
+    justify-content: space-between;
+}
+.Buttons{
+    display: flex;
+    justify-content: space-between;
+}
